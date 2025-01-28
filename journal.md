@@ -20,3 +20,4 @@ This code made it so the tutorial model rotated and also moved the top gun on to
 ![image](https://github.com/user-attachments/assets/2b927734-ecc5-48e5-b578-7f5864c177f8)
 
 The float v makes the yellow cap on top move vertically around the sphere, and the float r rotated the entire turret.
+Old unity code that makes it optimised and doesn't need input down code?
